@@ -1,0 +1,888 @@
+[
+    {
+        "coord": {
+            "lon": -79.4163,
+            "lat": 43.7001
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.77,
+            "feels_like": 269.61,
+            "temp_min": 271.96,
+            "temp_max": 274.99,
+            "pressure": 1020,
+            "humidity": 82
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.02,
+            "deg": 140,
+            "gust": 7.6
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1638738946,
+        "sys": {
+            "type": 1,
+            "id": 718,
+            "country": "CA",
+            "sunrise": 1638707765,
+            "sunset": 1638740466
+        },
+        "timezone": -18000,
+        "id": 6167865,
+        "name": "Toronto",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -73.5878,
+            "lat": 45.5088
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 269.1,
+            "feels_like": 269.1,
+            "temp_min": 268.22,
+            "temp_max": 269.82,
+            "pressure": 1030,
+            "humidity": 67
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.51,
+            "deg": 150
+        },
+        "clouds": {
+            "all": 63
+        },
+        "dt": 1638738747,
+        "sys": {
+            "type": 1,
+            "id": 498,
+            "country": "CA",
+            "sunrise": 1638706738,
+            "sunset": 1638738694
+        },
+        "timezone": -18000,
+        "id": 6077243,
+        "name": "Montreal",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -123.1193,
+            "lat": 49.2497
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.99,
+            "feels_like": 276.99,
+            "temp_min": 275.36,
+            "temp_max": 278.42,
+            "pressure": 1034,
+            "humidity": 81
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.45,
+            "deg": 118,
+            "gust": 1.79
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1638738973,
+        "sys": {
+            "type": 2,
+            "id": 2011597,
+            "country": "CA",
+            "sunrise": 1638719505,
+            "sunset": 1638749709
+        },
+        "timezone": -28800,
+        "id": 6173331,
+        "name": "Vancouver",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -114.0853,
+            "lat": 51.0501
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 262.47,
+            "feels_like": 256.17,
+            "temp_min": 258.02,
+            "temp_max": 265.16,
+            "pressure": 1030,
+            "humidity": 66
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.58,
+            "deg": 349,
+            "gust": 6.26
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738757,
+        "sys": {
+            "type": 2,
+            "id": 2003474,
+            "country": "CA",
+            "sunrise": 1638717813,
+            "sunset": 1638747064
+        },
+        "timezone": -25200,
+        "id": 5913490,
+        "name": "Calgary",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -113.4687,
+            "lat": 53.5501
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 257.05,
+            "feels_like": 252.37,
+            "temp_min": 255.67,
+            "temp_max": 258.55,
+            "pressure": 1032,
+            "humidity": 64
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.79,
+            "deg": 9,
+            "gust": 3.58
+        },
+        "clouds": {
+            "all": 14
+        },
+        "dt": 1638738411,
+        "sys": {
+            "type": 2,
+            "id": 2037923,
+            "country": "CA",
+            "sunrise": 1638718412,
+            "sunset": 1638746168
+        },
+        "timezone": -25200,
+        "id": 5946768,
+        "name": "Edmonton",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -75.6981,
+            "lat": 45.4112
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 269.75,
+            "feels_like": 269.75,
+            "temp_min": 268.72,
+            "temp_max": 271.33,
+            "pressure": 1027,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.89,
+            "deg": 135,
+            "gust": 2.24
+        },
+        "clouds": {
+            "all": 98
+        },
+        "dt": 1638738368,
+        "sys": {
+            "type": 2,
+            "id": 2005537,
+            "country": "CA",
+            "sunrise": 1638707224,
+            "sunset": 1638739221
+        },
+        "timezone": -18000,
+        "id": 6094817,
+        "name": "Ottawa",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -97.147,
+            "lat": 49.8844
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 264.45,
+            "feels_like": 257.64,
+            "temp_min": 263.29,
+            "temp_max": 265.42,
+            "pressure": 1012,
+            "humidity": 89
+        },
+        "visibility": 6437,
+        "wind": {
+            "speed": 4.63,
+            "deg": 350,
+            "gust": 8.75
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1638738862,
+        "sys": {
+            "type": 1,
+            "id": 738,
+            "country": "CA",
+            "sunrise": 1638713430,
+            "sunset": 1638743314
+        },
+        "timezone": -21600,
+        "id": 6183235,
+        "name": "Winnipeg",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -71.2145,
+            "lat": 46.8123
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 265.09,
+            "feels_like": 260.94,
+            "temp_min": 263.7,
+            "temp_max": 265.61,
+            "pressure": 1030,
+            "humidity": 71
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.24,
+            "deg": 235,
+            "gust": 4.02
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1638738884,
+        "sys": {
+            "type": 2,
+            "id": 2041383,
+            "country": "CA",
+            "sunrise": 1638706455,
+            "sunset": 1638737838
+        },
+        "timezone": -18000,
+        "id": 6325494,
+        "name": "Qu\u00e9bec",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -79.9496,
+            "lat": 43.2334
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.02,
+            "feels_like": 274.02,
+            "temp_min": 272.29,
+            "temp_max": 274.58,
+            "pressure": 1018,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.45,
+            "deg": 70,
+            "gust": 4.02
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738263,
+        "sys": {
+            "type": 2,
+            "id": 2010676,
+            "country": "CA",
+            "sunrise": 1638707801,
+            "sunset": 1638740685
+        },
+        "timezone": -18000,
+        "id": 5969785,
+        "name": "Hamilton",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -80.5112,
+            "lat": 43.4254
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.64,
+            "feels_like": 267.92,
+            "temp_min": 271.62,
+            "temp_max": 273.82,
+            "pressure": 1018,
+            "humidity": 82,
+            "sea_level": 1018,
+            "grnd_level": 976
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.47,
+            "deg": 113,
+            "gust": 6.71
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738451,
+        "sys": {
+            "type": 2,
+            "id": 60894,
+            "country": "CA",
+            "sunrise": 1638707974,
+            "sunset": 1638740783
+        },
+        "timezone": -18000,
+        "id": 5992996,
+        "name": "Kitchener",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -81.233,
+            "lat": 42.9834
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.18,
+            "feels_like": 271.62,
+            "temp_min": 272.64,
+            "temp_max": 274.95,
+            "pressure": 1002,
+            "humidity": 71
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.24,
+            "deg": 63,
+            "gust": 3.58
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738507,
+        "sys": {
+            "type": 2,
+            "id": 20399,
+            "country": "CA",
+            "sunrise": 1638708061,
+            "sunset": 1638741042
+        },
+        "timezone": -18000,
+        "id": 6058560,
+        "name": "London",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -123.3693,
+            "lat": 48.4329
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.41,
+            "feels_like": 275.02,
+            "temp_min": 275.92,
+            "temp_max": 279.46,
+            "pressure": 1034,
+            "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.68,
+            "deg": 23,
+            "gust": 4.02
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738375,
+        "sys": {
+            "type": 2,
+            "id": 2007914,
+            "country": "CA",
+            "sunrise": 1638719362,
+            "sunset": 1638749972
+        },
+        "timezone": -28800,
+        "id": 6174041,
+        "name": "Victoria",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -63.5724,
+            "lat": 44.6453
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.59,
+            "feels_like": 270.32,
+            "temp_min": 271.22,
+            "temp_max": 272.98,
+            "pressure": 1028,
+            "humidity": 73
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.79,
+            "deg": 281,
+            "gust": 3.58
+        },
+        "clouds": {
+            "all": 63
+        },
+        "dt": 1638738592,
+        "sys": {
+            "type": 2,
+            "id": 2019613,
+            "country": "CA",
+            "sunrise": 1638704151,
+            "sunset": 1638736472
+        },
+        "timezone": -14400,
+        "id": 6324729,
+        "name": "Halifax",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -78.8496,
+            "lat": 43.9001
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.24,
+            "feels_like": 269.27,
+            "temp_min": 272.36,
+            "temp_max": 274.95,
+            "pressure": 1022,
+            "humidity": 100
+        },
+        "visibility": 1207,
+        "wind": {
+            "speed": 3.6,
+            "deg": 130,
+            "gust": 7.72
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1638739045,
+        "sys": {
+            "type": 1,
+            "id": 871,
+            "country": "CA",
+            "sunrise": 1638707669,
+            "sunset": 1638740290
+        },
+        "timezone": -18000,
+        "id": 6094578,
+        "name": "Oshawa",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -83.0165,
+            "lat": 42.3001
+        },
+        "weather": [
+            {
+                "id": 501,
+                "main": "Rain",
+                "description": "moderate rain",
+                "icon": "10d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.01,
+            "feels_like": 276.01,
+            "temp_min": 274.19,
+            "temp_max": 277.34,
+            "pressure": 1013,
+            "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.45,
+            "deg": 91,
+            "gust": 0.89
+        },
+        "rain": {
+            "1h": 0.49
+        },
+        "clouds": {
+            "all": 90
+        },
+        "dt": 1638738926,
+        "sys": {
+            "type": 2,
+            "id": 2000979,
+            "country": "CA",
+            "sunrise": 1638708359,
+            "sunset": 1638741601
+        },
+        "timezone": -18000,
+        "id": 6182962,
+        "name": "Windsor",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -106.6345,
+            "lat": 52.1168
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 254.91,
+            "feels_like": 247.91,
+            "temp_min": 254.25,
+            "temp_max": 254.91,
+            "pressure": 1025,
+            "humidity": 71
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.92,
+            "deg": 358,
+            "gust": 7.6
+        },
+        "clouds": {
+            "all": 93
+        },
+        "dt": 1638738184,
+        "sys": {
+            "type": 2,
+            "id": 2012012,
+            "country": "CA",
+            "sunrise": 1638716329,
+            "sunset": 1638744970
+        },
+        "timezone": -21600,
+        "id": 6141256,
+        "name": "Saskatoon",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -79.2496,
+            "lat": 43.1668
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.74,
+            "feels_like": 269.3,
+            "temp_min": 273.25,
+            "temp_max": 277.2,
+            "pressure": 1020,
+            "humidity": 78,
+            "sea_level": 1020,
+            "grnd_level": 1006
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.96,
+            "deg": 89,
+            "gust": 9.91
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738541,
+        "sys": {
+            "type": 2,
+            "id": 2012985,
+            "country": "CA",
+            "sunrise": 1638707620,
+            "sunset": 1638740530
+        },
+        "timezone": -18000,
+        "id": 6155721,
+        "name": "St. Catharines",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -104.6178,
+            "lat": 50.4501
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 257.03,
+            "feels_like": 250.03,
+            "temp_min": 257.03,
+            "temp_max": 257.61,
+            "pressure": 1021,
+            "humidity": 71
+        },
+        "visibility": 2566,
+        "wind": {
+            "speed": 10.73,
+            "deg": 340,
+            "gust": 13.86
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738338,
+        "sys": {
+            "type": 2,
+            "id": 47663,
+            "country": "CA",
+            "sunrise": 1638715375,
+            "sunset": 1638744956
+        },
+        "timezone": -21600,
+        "id": 6119109,
+        "name": "Regina",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -52.7093,
+            "lat": 47.5649
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.85,
+            "feels_like": 273.85,
+            "temp_min": 273.3,
+            "temp_max": 274.63,
+            "pressure": 1021,
+            "humidity": 69
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.45,
+            "deg": 245,
+            "gust": 1.79
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1638738832,
+        "sys": {
+            "type": 2,
+            "id": 2006913,
+            "country": "CA",
+            "sunrise": 1638702183,
+            "sunset": 1638733225
+        },
+        "timezone": -12600,
+        "id": 6324733,
+        "name": "St. John's",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -119.4857,
+            "lat": 49.8831
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.89,
+            "feels_like": 274.89,
+            "temp_min": 272.84,
+            "temp_max": 276.29,
+            "pressure": 1032,
+            "humidity": 40
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.89,
+            "deg": 248,
+            "gust": 2.24
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1638738542,
+        "sys": {
+            "type": 2,
+            "id": 2038437,
+            "country": "CA",
+            "sunrise": 1638718795,
+            "sunset": 1638748674
+        },
+        "timezone": -28800,
+        "id": 5990579,
+        "name": "Kelowna",
+        "cod": 200
+    }
+]
